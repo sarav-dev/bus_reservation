@@ -1,3 +1,3 @@
 # bus_reservation
 
-Phase 1 - Basic reservation system
+Basic reservation system - Phase 1
